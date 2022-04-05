@@ -54,5 +54,6 @@ dkms.conf
 # CodeBlocks IDE
 *.layout
 *.depend
+*.cbp
 bin/
 obj/
